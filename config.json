@@ -1,9 +1,9 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
-   "database": "data",
+   "owner": "6285793589243",
+   "owner_name": "Iyuzaki Yanagi",
+   "database": "database",
    "limit": 15,
-   "ram_limit": "900mb",
+   "ram_limit": "700mb",
    "max_upload": 50,
    "max_upload_free": 10,
    "cooldown": 3,
@@ -13,7 +13,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017444
+      "number": 62857935892436
    },
    "replit_url": ""
 }
