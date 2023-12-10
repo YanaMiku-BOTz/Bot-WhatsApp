@@ -1,4 +1,4 @@
-## NEOXR-BOT (BETA)
+## YanaMiku-Bot (BETA)
 
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.
 
@@ -6,43 +6,59 @@
 
 > To use [@neoxr/wb >= v1.17.20](https://www.npmjs.com/package/@neoxr/wb) you must add the following components [Open Commit](https://github.com/neoxr/neoxr-bot/commit/26790679dea49494c25106edbaffc5ae9cb716ec)
 
-### Premium Script v3.0.1-Optima
+### Special Script
 
-🏷️ Price : **Rp. 150.000 / $20.80**
+💠 Price : **Rp. 60.000**
+❇️ Fitur : **13000+**
 
 **Special Features & Benefit :**
-- AI & AI Image (Original OpenAI)
+- AI & AI Image Generate
+- Ai Chat Character
+- Text Maker
+- Logo Maker
 - Anti Bot
 - Auto Download
 - Porn Detector (Only Image)
-- 9 Mini Games
+- Fun Games
+- Rpg Game
+- Top Up Otomatis
 - Leveling & Roles
 - Email Verification
-- Captcha Verification
+- Broadcast Email
 - Send Email
 - High Optimation
 - Free Updates
-- Bonus ApiKey 5K Request (for 2 month)
+- Free ApiKey (5k)
+- Panel Pterodactyl (CPanel)
+- Create Domain (cloudflare)
+- Vipayment (top up otomatis) 
+- ApiGames (top up otomatis)
+- Deposit Otomatis (Qris / Saweria)
+- Cloud Storage Firebase
+- MongoDb
+- Store / Jb (jpm, push, broadcast, dll) 
+- Random Anime
+- Random Image
+- Menfess
 
 **Additional Features :**
 
 > Addional Features adalah fitur tambahan yang di jual terpisah / Additional features are features that are sold separately.
 
-🏷️ Cloud Storage (**+Rp. 80.000 / +$10.80**)
+🏷️ Cloud Storage Firebase (**+Rp. 7.000**)
 
-> Cloud Storage ini berfungsi untuk menyimpan file media (sticker, foto, video, audio) ke cloud storage tanpa membebani disk space server bot. Dalam script ini terdapat **script uploader** yang bisa di upload ke replit sebagai tempat menyimpan media, plugin **storage.js** dan **storage_ev.js**
-
+> Cloud Storage ini berfungsi untuk menyimpan file media (sticker, foto, video, audio, file, document, dll) ke cloud storage firebase tanpa membebani disk space server bot.
 🏷️ Menfess (**+Rp. 15.000 / +$3.80**)
 
 > Menfess untuk mengirim chat confess kepada seseorang dan penerima pesan bisa membalas chat dari pengirim confess tanpa perlu menggunakan command/perintah
 
-🏷️ Payment Gateway (**+Rp. 80.000 / +$10.80**)
+🏷️ Payment Gateway (**+Rp. 20.000 / +$10.80**)
 
 > Payment Gateway ini berfungsi untuk melakukan pembayaran otomatis menggunakan QRIS pada fitur ini terdapat script **payment gateway**, plugin **payment.js**, **sewa.js** dan **buyprem.js** harga dan fee bisa di sesuaikan sesuai keinginan
 
-🏷️ Game Plugins (**+Rp. 70.000 / +$9.80**)
+🏷️ Fun Games (**+Rp. 10.000**)
 
-> 23 plugin game yang semuanya tanpa menggunakan api dan tanpa di enskripsi, dengan ini ada tambahan update schema, profile, rank, pocket, dll.
+> 50 plugin game yang semuanya tanpa menggunakan api dan tanpa di enskripsi, dengan ini ada tambahan update schema, profile, rank, pocket, dll.
 
 **Creator / Group** : [Wildan Izzudin](https://wa.me/6285887776722) / [Chatbot](https://chat.whatsapp.com/DkFsTeMORaq4COqeI8kdv8)
 
@@ -51,6 +67,7 @@
 - [x] NodeJS >= 14
 - [x] FFMPEG
 - [x] Server vCPU/RAM 1/2GB (Min)
+- [x] 100% Cpu
 
 ### Configuration
 
