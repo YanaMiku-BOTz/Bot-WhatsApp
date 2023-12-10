@@ -30,12 +30,12 @@ function start() {
 	})
 }
 
-CFonts.say('NEOXR BOT', {
-   font: 'tiny',
+CFonts.say('YanaMiku', {
+   font: 'block',
    align: 'center',
-   colors: ['system']
-}), CFonts.say('Github : https://github.com/neoxr/neoxr-bot', {
-   colors: ['system'],
+   colors: ['blue', 'yellow']
+}), CFonts.say('Website : https://yanamiku.shop', {
+   colors: ['yellow'],
    font: 'console',
    align: 'center'
 })
