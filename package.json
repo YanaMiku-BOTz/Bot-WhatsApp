@@ -1,7 +1,7 @@
 {
-   "name":"neoxr-bot",
-   "version":"4.0-rc",
-   "description":"WhatsApp Bot (Base)",
+   "name":"YanaMiku-BOTz",
+   "version":"6.04.82-Base",
+   "description":"Bot WhatsApp Simple By Iyuzaki Yanagi",
    "main":"index.js",
    "scripts": {
       "start": "node ."
