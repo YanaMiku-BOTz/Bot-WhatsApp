@@ -14,7 +14,7 @@
 
 ## Temporary Features (fitur yang dijual terpisah)
 
-<p align="center"><img src="https://iili.io/JuQl6o7.jpg" width="1280" height="720" alt="POWER"></p>
+<p align="center"><img src="https://iili.io/JuQl6o7.jpg" alt="POWER"></p>
 ## Features Panel Pterodactyl
  * **💰 Rp 10,000**
 
