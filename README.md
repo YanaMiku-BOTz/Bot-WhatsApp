@@ -1,4 +1,4 @@
-<p align="center"><img src="https://iili.io/JuQuHMv.jpg" width="400px" height="150px" alt="ddos"></p>
+<p align="center"><img src="https://iili.io/JuQuHMv.jpg" alt="ddos"></p>
 
 <h1 align="center">YanaMiku - BOTz (YanaMiku-Project)</h1>
 <em><h5 align="center">(Bot WhatsApp Simple By Iyuzaki Yanagi)</h5></em>
