@@ -16,7 +16,8 @@
 
 <p align="center"><img src="https://iili.io/JuQl6o7.jpg" alt="POWER"></p>
 ## Features Panel Pterodactyl
- * **💰 Rp 10,000**
+ 
+ **💰 Rp 10,000**
 
    * CPanel (Create Penel) Yang berisi Fitur Untuk Untuk Membuat Server, User, Nest Dan Sebagainya
  * [Cek Lengkapnya Di Sini](https://yanamiku.shop/script/cpanel)
