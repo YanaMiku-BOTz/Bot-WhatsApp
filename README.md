@@ -35,6 +35,7 @@ Our social's💻
  * [YanaMiku Project Group](https://chat.whatsapp.com/HzaF888SGaMJhEq24wP29B)
  * [Bot WhatsApp Community](https://chat.whatsapp.com/CHO2bZn9DEUKDKesKAp62A)
  * [GitHub](https://github.com/YanaMiku-BOTz)
+ * [YouTube](https://www.youtube.com/@IyuzakiYanagi) 
 ### If u Like the project, leave a star on the repository!
 
 ## Downloads
